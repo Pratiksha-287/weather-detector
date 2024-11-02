@@ -50,7 +50,7 @@ A simple web application built with Django that provides current weather informa
    python manage.py runserver
 7. Open your browser and go to http://127.0.0.1:8000/
 
-##Usage
+## Usage
  - Enter a city name in the input field and click "Search"
  - The application will display the current weather data along with a background image related to that city.
    
