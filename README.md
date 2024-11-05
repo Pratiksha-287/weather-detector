@@ -1,5 +1,6 @@
 # Weather Detector
 
+![Gameplay](img.png)
 A simple web application built with Django that provides current weather information for any city and displays a background image related to that city.
 
 ## Features
